@@ -9,6 +9,7 @@ The Node API that manage the user tasks. The application allows to:
 -   Delete a specifi task
 
 ## Setting up the project
+ - Node version: `^16.15.0`
  - Clone the repository
 	  `$ git clone https://github.com/Awais914/thm-task-manager.git`
 
